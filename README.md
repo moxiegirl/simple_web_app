@@ -11,7 +11,7 @@ This repository contains a simple web application written in Python. The applica
    ```bash
    python app.py
 
-   The app launches a server on the first open address and port, typically `http://127.0.0.1:5000`.
+The app launches a server on the first open address and port, typically `http://127.0.0.1:5000`.
 
 
 
